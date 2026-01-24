@@ -1,5 +1,6 @@
 package soul;
 
+import flixel.graphics.frames.FlxAtlasFrames;
 import flixel.util.typeLimit.OneOfTwo;
 import haxe.Json;
 import haxe.io.Bytes;
@@ -143,5 +144,9 @@ class Res {
         zipReader = null;
 
         return map;
+    }
+
+    inline public static function sparrow(name:String):FlxAtlasFrames {
+        return FlxAtlasFrames.fromSparrow('$name.png', '$name.xml');
     }
 }
