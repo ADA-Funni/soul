@@ -1,5 +1,6 @@
 {
     "name" : "soul",
+    "license": "There's no license, just credit me, ADA_Funni, when you use this library.",
     "tags": [
         "haxeflixel", "util"
     ],
