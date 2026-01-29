@@ -56,8 +56,11 @@ typedef SoulSpriteData = {
     var animations:Array<SoulSpriteAnimationData>;
 }
 
-// "Babe, you're missing the point,
-// you don't have to be Japanese to make Bento boxes."
+/**
+ * Basically FNF's offset system, but better.
+ * 
+ * P.S. I had Jimmy O. Yang on whilst coding this, he's really funny.
+ */
 class SoulSprite extends FlxAnimate {
     private var zero = FlxPoint.get(0, 0);
 
