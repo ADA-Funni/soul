@@ -1,6 +1,7 @@
 # soul
 This is a library that contains helper classes to be used in **HaxeFlixel** games.
-It is named "soul" because it's short and easy to remember.
+
+It is named "soul" because that's short and easy to remember.
 
 This library is currently in active development, so if you could make pull requests and issues on this page, if you see anything wrong or want to enhance the library's features/functionality, that'd be a big help!
 
