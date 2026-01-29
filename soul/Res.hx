@@ -104,7 +104,7 @@ class Res {
      * @param usePath 
      * @return Dynamic
      */
-    inline public static function getBytes(file:String, ?usePath:Bool = true):Bytes {
+    inline public static function getBytes(file:String, ?usePath:Bool = true):Dynamic {
         return #if sys sys.io.File.getBytes(usePath ? path(file) : file) #else Bytes.ofData(Assets.getBytes(usePath ? path(file) : file)) #end;
     }
 
