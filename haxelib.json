@@ -12,6 +12,7 @@
     "dependencies" : {
         "flixel": "",
         "openfl": "",
-        "lime": ""
+        "lime": "",
+        "unifill": ""
     }
 }
