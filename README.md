@@ -1,6 +1,6 @@
 # How to use SoulSprite:
 
-The path in "loadData" works off of
+The path in `loadData()` works off of
 ```haxe
 Res.path(/* whatever you input into the function */) + '.json'
 ```
