@@ -1,6 +1,8 @@
 # Soul Utils
 This is a library that contains helper classes to be used in **HaxeFlixel** games.
 
+This library is currently in active development, so if you could make pull requests and issues on this page, if you see anything wrong or want to enhance the library's features/functionality, that'd be a big help!
+
 # To-Do:
 Finish Sprite JSON Config [X]
 Add ZIP functionality for Sprite Config []
