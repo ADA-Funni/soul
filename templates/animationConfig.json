@@ -1,0 +1,74 @@
+{
+    "offset": [0, 0],
+    "camera_offset": [0, 0],
+    "antialiasing": true,
+
+    "flipX": false,
+    "flipY": false,
+
+    "assets": [
+        {
+            "path": "images/characters/Thomas Assets",
+            "renderType": "animateatlas"
+        },
+        {
+            "path": "images/characters/dusting",
+            "renderType": "sparrow"
+        },
+        {
+            "path": "images/characters/BoyFriend Assets",
+            "renderType": "sparrow"
+        }
+    ],
+    
+    "metadata": {
+        "displayName": "Thomas"
+    },
+
+    "animations": [
+        {
+            "assetId": 0,
+
+            "name": "idle",
+            "prefix": "Thomas idle dance",
+
+            "offset": [0, 0],
+            "fps": 24,
+            
+            "looped": false,
+
+            "flipX": true,
+            "flipY": false,
+            
+            "frameType": 1
+        },
+        {
+            "assetId": 1,
+
+            "name": "dust-idle",
+            "prefix": "Idle",
+
+            "offset": [0, 0],
+            "fps": 24,
+            
+            "looped": false,
+
+            "flipX": true,
+            "flipY": false
+        },
+        {
+            "assetId": 2,
+
+            "name": "bf-idle",
+            "prefix": "BF Dead Loop",
+
+            "offset": [0, 0],
+            "fps": 24,
+            
+            "looped": false,
+
+            "flipX": true,
+            "flipY": false
+        }
+    ]
+}
