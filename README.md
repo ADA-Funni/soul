@@ -1,3 +1,14 @@
+# Soul Utils
+This is a library that contains helper classes to be used in **HaxeFlixel** games.
+
+# To-Do:
+Finish Sprite JSON Config [X]
+Add ZIP functionality for Sprite Config []
+Finish Sprite Editor []
+Finish Level Editor []
+
+soul v1.0.0 will release when the to-do list is finished.
+
 # How to use SoulSprite:
 
 To add a SoulSprite, just follow this example code:
