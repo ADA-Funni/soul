@@ -12,6 +12,7 @@
     ],
     "dependencies": {
         "flixel-animate": "",
-        "flixel-ui": ""
+        "flixel-ui": "",
+        "hscript": ""
     }
 }
