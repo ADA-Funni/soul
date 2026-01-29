@@ -5,7 +5,7 @@
         "haxeflixel", "util"
     ],
     "description": "Helper classes used by ADA_Funni for his HaxeFlixel games.",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "releasenote": "Initial release",
     "contributors": [
         "ADA_Funni"
