@@ -1,16 +1,16 @@
 {
-    "name" : "soul",
+    "name": "soul",
     "license": "There's no license, just credit me, ADA_Funni, when you use this library.",
     "tags": [
         "haxeflixel", "util"
     ],
     "description": "Helper classes used by ADA_Funni for his HaxeFlixel games.",
-    "version" : "1.0.0",
+    "version": "1.0.0",
     "releasenote": "Initial release",
     "contributors": [
         "ADA_Funni"
     ],
-    "dependencies" : {
+    "dependencies": {
         "flixel-animate": "",
         "flixel-ui": ""
     }
