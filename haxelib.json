@@ -10,9 +10,6 @@
         "ADA_Funni"
     ],
     "dependencies" : {
-        "flixel": "",
-        "openfl": "",
-        "lime": "",
         "flixel-animate": "",
         "flixel-ui": ""
     }
