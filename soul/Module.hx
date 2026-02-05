@@ -8,6 +8,10 @@ class Module {
     public function new(id:String) {
         this.id = id;
     }
+
+    public function toString():String {
+        return id;
+    }
 }
 
 @:hscriptClass
