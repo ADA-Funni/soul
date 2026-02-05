@@ -13,6 +13,7 @@
     "dependencies": {
         "flixel-animate": "",
         "flixel-ui": "",
-        "hscript": ""
+        "hscript": "",
+        "polymod": ""
     }
 }
